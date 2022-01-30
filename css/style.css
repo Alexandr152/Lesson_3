@@ -1,0 +1,59 @@
+p {
+	color: red;
+}
+
+span {
+	color: green;
+}
+
+.list {
+	color: blue;
+}
+
+.text {
+	color: mediumseagreen;
+}
+
+.paragraph {
+	color: rosybrown;
+}
+
+#section-one {
+	color: saddlebrown;
+}
+
+div {
+	color: yellow;
+}
+
+.item {
+	color: seagreen;
+}
+
+.info {
+	color: skyblue;
+}
+
+p.info {
+	color: yellowgreen;
+}
+
+.text.info-one {
+	color: powderblue;
+}
+
+p span {
+	color: rebeccapurple;
+}
+
+[class="header"] {
+	color: sienna;
+}
+
+[class*="-five"] {
+	color: steelblue;
+}
+
+.bottom > p {
+	color: blue;
+}
